@@ -1,0 +1,12 @@
+Python dependencies required the project
+
+
+pandas
+numpy
+scikit-learn
+xgboost
+lightgbm
+catboost
+matplotlib
+seaborn
+jupyter
