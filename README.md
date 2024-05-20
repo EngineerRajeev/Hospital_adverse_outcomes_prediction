@@ -4,8 +4,7 @@
 
 This repository contains the code and data used for predicting in-hospital mortality, readmission, and prolonged length of stay using the XRAI framework. The analysis leverages historical electronic health records (EHR) and employs various machine learning models.
 
-## Repository Structure
-.
+## Repository Structure.
 ├── README.md
 ├── requirements.txt
 ├── .gitignore
